@@ -1,2 +1,6 @@
 venv
 chat_history.db
+bankbot.log
+BankingQueryFilter.py
+*.__pycache__
+
